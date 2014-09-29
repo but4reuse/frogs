@@ -1,7 +1,6 @@
 /** Jabier Martinez, prototyping code **/
 
 import java.util.Collections;
-import java.util.Random;
 
 String SPLName = "epsConfigs"; //"carExample";
 
